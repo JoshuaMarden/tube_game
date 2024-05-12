@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+inquirerpy==0.3.4
+pfzy==0.3.4
+prompt-toolkit==3.0.43
+Pygments==2.18.0
+regex==2024.5.10
+requests==2.31.0
+six==1.16.0
+soupsieve==2.5
+urllib3==2.2.1
+wcwidth==0.2.13
